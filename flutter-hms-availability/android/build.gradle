@@ -24,7 +24,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace "com.huawei.huawei_hmsavailability"
+    namespace "com.huawei.hms.flutter.hmsavailability"
 
     compileSdkVersion 30
     buildToolsVersion "30.0.3"
